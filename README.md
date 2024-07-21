@@ -25,17 +25,20 @@ To get started with the project, follow these steps:
    ```sh
    git clone https://github.com/AliSinaYOusofi/quotes
    ```
-2. **Install Dependencies: **
+2. **Install Dependencies:**
+   Installing dependecies with the following command.
    ```sh
    cd quotes
    ```
   ```sh
-  npm install
+   npm install
   ```
-3. **Start the Development Server: **
+3. **Start the Development Server:**
+   Start the development server with:
   ```sh
   npm run dev
   ```
 Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
-
+### For contributions see:
+[contribution guides](./contributions.md)
