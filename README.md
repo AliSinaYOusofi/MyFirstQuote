@@ -6,9 +6,6 @@
 - [Project Overview](#project-overview)
 - [Why is this project useful?](#why-is-this-project-useful)
 - [Getting Started](#getting-started)
-- [How to Contribute](#how-to-contribute)
-- [Getting Help](#getting-help)
-- [License](#license)
 
 ## Project Overview
 Welcome to My First Quote. 
