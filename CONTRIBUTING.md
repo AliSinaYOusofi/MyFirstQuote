@@ -1,28 +1,11 @@
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 # Contributing to Devly Advice
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-#### Table Of Contents
-[Code of Conduct](#code-of-conduct)
-
-[How Can I Contribute?](#how-can-i-contribute)
-
-[What should I know before I get started](#what-should-i-know-before-i-get-started)
-
-## Code of Conduct
-Be nice, thats it.
-
-## How can i contribute
-
-### Reporting a bug
-If you have encountered any bug you can create a new issue [here](https://github.com/AliSinaYOusofi/quotes/issues). 
-> **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and link it to the original issue in the body of the new one.
-
-### Suggesting enhancments
-Thanks for making the project better, you can suggest enhancments [here](https://github.com/AliSinaYOusofi/quotes/issues). First your suggesstion will be reviewed and if passess the review we will start working on that suggesstion.
-
-### Adding a new advice
-Thanks for sharing your devly advice!, your advice may help someone learn,
+## How can I contribute
 
 **NOTE:** If you don't have git installed, [install it here](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git).
 
@@ -48,7 +31,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+git clone https://github.com/AliSinaYOusofi/quotes
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
@@ -57,7 +40,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+cd quotes
 ```
 Now create a branch using the `git switch` command:
 
@@ -73,3 +56,58 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
+Now open `quotes.js (/data/quotes.js)` file in a text editor, add your quote to it. Add it at the end of the file. Now, save the file.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+Add those changes to the branch you just created using the `git add` command:
+
+```bash
+git add quotes.js
+```
+Now commit those changes using the `git commit` command:
+
+```bash
+git commit -m "Added quote to quoteslist"
+```
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+
+```bash
+git push -u origin your-branch-name
+```
+
+replacing `your-branch-name` with the name of the branch you created earlier.
+
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+You can check this list to contribute to other projects:
+# Useful Open Source Resources
+
+## [Open Source Friday](https://opensourcefriday.com/)
+Open Source Friday is a movement to encourage people to contribute to open source projects. It provides resources to help you get started with contributions and find projects that need help.
+
+## [First Timers Only](https://www.firsttimersonly.com/)
+First Timers Only is a site dedicated to making it easier for new developers to make their first open source contribution. It provides guidance and lists projects that are welcoming to first-time contributors.
+
+## [Up For Grabs](https://up-for-grabs.net/)
+Up For Grabs aggregates projects that have tasks tagged with "up-for-grabs", "jump-in", "help wanted", and other labels that indicate they are suitable for new contributors. This makes it easier to find beginner-friendly projects.
+
+## [Open Sauced](https://opensauced.pizza/)
+Open Sauced helps you track your open source contributions, find new projects to work on, and connect with other developers. It's a platform for managing and visualizing your open source journey.
