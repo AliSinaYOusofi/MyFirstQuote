@@ -41,4 +41,4 @@ To get started with the project, follow these steps:
 Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
 ### For contributions see:
-[contribution guides](./contributions.md)
+[contribution guides](./CONTRIBUTING.md)
