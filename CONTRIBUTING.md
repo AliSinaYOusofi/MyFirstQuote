@@ -11,12 +11,13 @@
 
 ### Follow the steps for adding a new advice
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://i.ibb.co/RQqhsyL/fork.png" alt="fork this repository" />
+
 ## 1. Fork the repository
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
 ## 2. Clone the repository
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://i.postimg.cc/gkmd5PHF/Screenshot-2024-07-24-092520.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -28,7 +29,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://i.postimg.cc/CLsDTSyj/url.png" alt="copy URL to clipboard" />
 
 ```bash
 git clone https://github.com/AliSinaYOusofi/quotes
@@ -58,7 +59,7 @@ git switch -c add-alonzo-church
 
 Now open `quotes.js (/data/quotes.js)` file in a text editor, add your quote to it. Add it at the end of the file. Now, save the file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://i.postimg.cc/rszb6Qs4/Screenshot-2024-07-23-200430.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
