@@ -1,6 +1,6 @@
 # My First Quote
 
-### Make Your first contribution by sharing a quote of yourself.
+### Make Your first contribution by sharing a quote.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -9,7 +9,7 @@
 
 ## Project Overview
 Welcome to My First Quote. 
-This project is a web application designed to display quotes that you have in mind (not from someone else). This project is aimed at developers making their first open-source contribution.
+This project is a web application designed to display quotes that you have think is awesome. This project is aimed at developers making their first open-source contribution.
 
 ## Why is this project useful?
 This project serves several purposes:
@@ -18,7 +18,7 @@ This project serves several purposes:
 - **Community:** Encourages open-source contributions, fostering a community of developers working together to improve this project.
 
 ## Getting Started
-To get started with the project, follow these steps:
+To make your first contribution, follow these steps:
 
 1. **Clone the Repository:**
    Clone the repository to your local machine using the following command:
