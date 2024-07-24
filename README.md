@@ -18,12 +18,12 @@ This project serves several purposes:
 - **Community:** Encourages open-source contributions, fostering a community of developers working together to improve this project.
 
 ## Getting Started
-To make your first contribution, follow these steps:
+To get started, follow these steps:
 
 1. **Clone the Repository:**
    Clone the repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/AliSinaYOusofi/quotes
+   git clone https://github.com/AliSinaYOusofi/MyFirstQuote
    ```
 2. **Install Dependencies:**
    Installing dependecies with the following command.
