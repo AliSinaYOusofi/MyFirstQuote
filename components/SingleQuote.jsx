@@ -1,6 +1,5 @@
 import React from 'react';
 import { FaHackerNews, FaTimes } from 'react-icons/fa';
-// new font for single quote display
 import {Hachi_Maru_Pop} from 'next/font/google';
 
 const hachiMaruPop = Hachi_Maru_Pop({weight: '400', subsets: ['latin']})

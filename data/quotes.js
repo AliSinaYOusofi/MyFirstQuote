@@ -35,12 +35,4 @@ export const quotes = [
       "quote": "Life is a learning experience, only if you learn.",
       "author": "Yogi Berra"
     },
-    {
-      "quote": "Self-complacency is fatal to progress.",
-      "author": "Margaret Sangster"
-    },
-    {
-      "quote": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha"
-    },
   ]

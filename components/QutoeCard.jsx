@@ -10,8 +10,11 @@ const QuoteCard = ({ quote, author, index }) => {
     const [isFullscreen, setIsFullscreen] = useState(false)
 
     const copyToClipboard = () => {
+        
         navigator.clipboard.writeText(quote)
+        
         setClipboard(true)
+        
         setTimeout(() => {
             setClipboard(false)
         }, 2000)
