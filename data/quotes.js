@@ -43,8 +43,4 @@ export const quotes = [
       "quote": "Peace comes from within. Do not seek it without.",
       "author": "Buddha"
     },
-    {
-      "quote": "What you give is what you get.",
-      "author": "Byron Pulsifer"
-    },
   ]
