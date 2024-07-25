@@ -36,7 +36,7 @@ git clone https://github.com/AliSinaYOusofi/quotes
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+## 3. Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -55,7 +55,7 @@ For example:
 git switch -c add-alonzo-church
 ```
 
-## Make necessary changes and commit those changes
+## 4. Make necessary changes and commit those changes
 
 Now open `quotes.js (/data/quotes.js)` file in a text editor, add your quote to it. Add it at the end of the file. Now, save the file.
 
@@ -73,7 +73,7 @@ Now commit those changes using the `git commit` command:
 ```bash
 git commit -m "Added quote to quoteslist"
 ```
-## Push changes to GitHub
+## 5. Push changes to GitHub
 
 Push your changes using the command `git push`:
 
