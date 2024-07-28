@@ -35,4 +35,20 @@ export const quotes = [
       "quote": "Life is a learning experience, only if you learn.",
       "author": "Yogi Berra"
     },
+    { 
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+     "quote": "You must be the change you wish to see in the world.",
+     "author": "Mahatma Gandhi"
+    },
+    {
+     "quote": "Do one thing every day that scares you.",
+     "author": "Eleanor Roosevelt "
+    },
+    { 
+     "quote": "Well done is better than well said ",
+     "author": "Benjamin Franklin"
+    },
   ]
