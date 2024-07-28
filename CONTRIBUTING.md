@@ -1,7 +1,7 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Contributing to Devly Advice
+# Contributing to MyFirstQuote
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
@@ -9,7 +9,7 @@
 
 **NOTE:** If you don't have git installed, [install it here](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git).
 
-### Follow the steps for adding a new advice
+##### Follow the steps for adding a new quote
 
 <img align="right" width="300" src="https://i.ibb.co/RQqhsyL/fork.png" alt="fork this repository" />
 
