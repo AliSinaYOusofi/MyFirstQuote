@@ -57,21 +57,22 @@ git switch -c add-alonzo-church
 
 ## 4. Make necessary changes and commit those changes
 
-Now open `quotes.js (/data/quotes.js)` file in a text editor, add your quote to it. Add it at the end of the file. Now, save the file.
+Now open `quotes.js (/data/quotes.js)` file in a text editor, the quotes is an array of objects, the object has two properties author and quote, so add an object at the end of the array.
+<img align="right" width="450" src="https://i.ibb.co/DMcCLqR/Screenshot-2024-07-28-121741.png" alt="quotes object" />
 
-<img align="right" width="450" src="https://i.postimg.cc/rszb6Qs4/Screenshot-2024-07-23-200430.png" alt="git status" />
+
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
+<img align="right" width="450" src="https://i.postimg.cc/rszb6Qs4/Screenshot-2024-07-23-200430.png" alt="git status" />
 Add those changes to the branch you just created using the `git add` command:
 
 ```bash
-git add quotes.js
+git add ./data/quotes.js
 ```
 Now commit those changes using the `git commit` command:
 
 ```bash
-git commit -m "Added quote to quoteslist"
+git commit -m "Added quote to quotes array"
 ```
 ## 5. Push changes to GitHub
 
